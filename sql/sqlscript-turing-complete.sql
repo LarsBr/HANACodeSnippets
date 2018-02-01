@@ -1,6 +1,7 @@
---- Original Q&A https://answers.sap.com/questions/419209/are-sqlscript-and-hana-sql-turing-complete.html
+--- ==> Blog post on http://lbreddemann.org/is-sap-hana-sql-sqlscript-turing-complete/
 
---  some links I found during research for this:
+--- Original Q&A https://answers.sap.com/questions/419209/are-sqlscript-and-hana-sql-turing-complete.html
+---  some links I found during research for this:
 --- https://stackoverflow.com/questions/7284/what-is-turing-complete#7320
 --- https://stackoverflow.com/questions/900055/is-sql-or-even-tsql-turing-complete
 --- http://assets.en.oreilly.com/1/event/27/High%20Performance%20SQL%20with%20PostgreSQL%20Presentation.pdf
