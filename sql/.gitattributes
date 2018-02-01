@@ -1,1 +1,6 @@
-*.sql linguist-language=sql
+# sql is not considered a programming language but a data language
+# by the github language classificiation tool 'linguist'
+# See https://github.com/github/linguist/issues/3666
+# so the following won't lead to a correct language classification but
+# will at least prevent the false attribution to SQLPL or anything else.
+*.sql linguist-language=SQL
