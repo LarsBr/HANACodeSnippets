@@ -7,7 +7,7 @@
 -- If you do use it, it's at your own risk. If you aren't 100% sure about how using this function
 -- will affect your landscape, then don't use it.
 --
--- 
+-- Make sure to read the blog post about the procedure: https://www.lbreddemann.org/sudo-grant/
 
 -- 1) create the SYSTEM.SUDO_GRANT procedure
 create or replace procedure "SUDO_GRANT"
@@ -171,7 +171,7 @@ order by timestamp desc;
 
 -- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 -- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
--- FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+-- FITNESS FOR A PARßTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 -- AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 -- LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 -- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
