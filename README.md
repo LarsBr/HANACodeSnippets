@@ -7,9 +7,10 @@ Be aware that this is a personal code repository and not in any way supported or
 
 Use at your own risk!
 
-## Contents 
+## Contents
 
-*   **sqlscript-turing-complete.sql** - A demonstration that SQLScript is a *turing complete* language. It is the code used in my [blog post](http://lbreddemann.org/is-sap-hana-sql-sqlscript-turing-complete/).
+* **sqlscript-turing-complete.sql** - A demonstration that SQLScript is a *turing complete* language. It is the code used in my [blog post](http://lbreddemann.org/is-sap-hana-sql-sqlscript-turing-complete/).
 
-*   **mysql-timediff.sql** - a HANA implementation of the `timeDiff()` function from mySQL. 
+* **mysql-timediff.sql** - a HANA implementation of the `timeDiff()` function from mySQL.
 
+* **sudo-grant.sql** - a `sudo` command to allow non-SYSTEM users granting privileges as *SYSTEM* without ruining the whole security setup. This [blog post](https://www.lbreddemann.org/sudo-grant/) has the complete story.
